@@ -11,7 +11,7 @@ module.exports = {
     extend: {
       colors: {
         darkText: "#8587f7",
-        dark3: "#4d5979",
+        dark3: "#8598c9",
         dark: "#0f0d2a",
         dark2: "#19163f",
         primaryMuda: "#6366f1",
